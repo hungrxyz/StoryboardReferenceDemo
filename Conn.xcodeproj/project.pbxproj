@@ -12,6 +12,7 @@
 		FAAB46AE1CA8AF3A00AE7A67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAAB46AC1CA8AF3A00AE7A67 /* Main.storyboard */; };
 		FAAB46B01CA8AF3A00AE7A67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAAB46AF1CA8AF3A00AE7A67 /* Assets.xcassets */; };
 		FAAB46B31CA8AF3A00AE7A67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAAB46B11CA8AF3A00AE7A67 /* LaunchScreen.storyboard */; };
+		FAAB46BB1CA8AF7800AE7A67 /* Second.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAAB46BA1CA8AF7800AE7A67 /* Second.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FAAB46AF1CA8AF3A00AE7A67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAAB46B21CA8AF3A00AE7A67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAAB46B41CA8AF3A00AE7A67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAAB46BA1CA8AF7800AE7A67 /* Second.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Second.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FAAB46A81CA8AF3A00AE7A67 /* AppDelegate.swift */,
 				FAAB46AA1CA8AF3A00AE7A67 /* ViewController.swift */,
 				FAAB46AC1CA8AF3A00AE7A67 /* Main.storyboard */,
+				FAAB46BA1CA8AF7800AE7A67 /* Second.storyboard */,
 				FAAB46AF1CA8AF3A00AE7A67 /* Assets.xcassets */,
 				FAAB46B11CA8AF3A00AE7A67 /* LaunchScreen.storyboard */,
 				FAAB46B41CA8AF3A00AE7A67 /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAAB46BB1CA8AF7800AE7A67 /* Second.storyboard in Resources */,
 				FAAB46B31CA8AF3A00AE7A67 /* LaunchScreen.storyboard in Resources */,
 				FAAB46B01CA8AF3A00AE7A67 /* Assets.xcassets in Resources */,
 				FAAB46AE1CA8AF3A00AE7A67 /* Main.storyboard in Resources */,
